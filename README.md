@@ -1,4 +1,5 @@
-# Kickstarter-Analysis
+# Kickstarter-Analysis 
+
 Performing analysis on Kickstarter data for various findings
 ## Overview of Project
 This project helps to get well verse with excel, right from downloading excel to breaking down the data. This process includes various techniques such as filtering, formatting, freezing, conditional formatting, debugging, using Pivot tables, VLOOKUP, applying descriptive statistics and visualization and much more.
