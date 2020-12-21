@@ -1,14 +1,14 @@
 # Kickstarter-Analysis 
 
-Performing analysis on Kickstarter data for various findings
+Performing analysis on Kickstarter data to help Louise visualize the relation between Campaign outcomes and the factors helping/affecting it.
 ## Overview of Project
-This project helps to get well verse with excel, right from downloading excel to breaking down the data. This process includes various techniques such as filtering, formatting, freezing, conditional formatting, debugging, using Pivot tables, VLOOKUP, applying descriptive statistics and visualization and much more.
+This project helps Louise to study about her Campaigns with respect to the other factors, such as the Outcomes, Country, Goal amount, pledged amount, etc., and then figuring out possibly which Goal amount to be considered or which Country supports her Campaigns the best or which categories she should select.
 ### Purpose
 The purpose of this analysis is to help Louise find out about how different campaigns are performing in relation to their launch dates and funding goals. Also to visualize the campaign outcomes based on their Launch Dates and Funding Goals.
 ## Analysis and Challenges
 The analysis was done based on two Outcomes.
-* Outcomes based on Launch Date
-* Outcomes based on Goals
+* Outcomes based on Launch Date ![TheaterOutcomes_LaunchDate.png] (This PC/C:/Users/vaish/Kickstarter-Analysis/Deliverable_1/Resources/TheaterOutcomes_LaunchDate.png)
+* Outcomes based on Goals ![OutcomesBased_Goals.png] (This PC/C:/Users/vaish/Kickstarter-Analysis/Deliverable_2/Resources/OutcomesBased_Goals.png)
 ### Analysis of Outcomes Based on Launch Date
 Here, the analysis is done using pivot tables and graphing. After creating a new column, labeled as "Year", the YEAR() function is used to extract the year from "Date Created Conversion" column. Then created a Pivot table and filtered the data based on "Parent Category" and "Years". After placing the pivot table fields in Rows, Columns and Values, the Row Labels were grouped to show only the months of the Year.
 
