@@ -8,6 +8,7 @@ The purpose of this analysis is to help Louise find out about how different camp
 ## Analysis and Challenges
 The analysis was done based on two Outcomes.
 * Outcomes based on Launch Date ![TheaterOutcomes_LaunchDate.png] (https://github.com/Vaishali715/Kickstarter-Analysis/Deliverable_1/Resources/TheaterOutcomes_LaunchDate.png)
+https://github.com/Vaishali715/Kickstarter-Analysis/main/Deliverable_1/Resources/TheaterOutcomes_LaunchDate.png
 * Outcomes based on Goals ![OutcomesBased_Goals.png] (https://github.com/Vaishali715/Kickstarter-Analysis/Deliverable_2/Resources/OutcomesBased_Goals.png)
 ### Analysis of Outcomes Based on Launch Date
 Here, the analysis is done using pivot tables and graphing. After creating a new column, labeled as "Year", the YEAR() function is used to extract the year from "Date Created Conversion" column. Then created a Pivot table and filtered the data based on "Parent Category" and "Years". After placing the pivot table fields in Rows, Columns and Values, the Row Labels were grouped to show only the months of the Year.
